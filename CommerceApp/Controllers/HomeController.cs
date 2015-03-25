@@ -10,6 +10,8 @@ namespace CommerceApp.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.Message = "Let's figure out these times.";
+
             return View();
         }
 
