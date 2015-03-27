@@ -28,3 +28,33 @@ C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\Com
 C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\EntityFramework.SqlServer.dll
 C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\EntityFramework.xml
 C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\CommerceApp.dll.config
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\CommerceApp.dll
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\CommerceApp.pdb
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\Antlr3.Runtime.dll
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\EntityFramework.dll
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\Newtonsoft.Json.dll
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\System.Web.Helpers.dll
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\System.Web.Mvc.dll
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\System.Web.Optimization.dll
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\System.Web.Razor.dll
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\System.Web.WebPages.dll
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\WebGrease.dll
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\EntityFramework.xml
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\System.Web.Helpers.xml
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\System.Web.Mvc.xml
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\System.Web.Optimization.xml
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\System.Web.Razor.xml
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\System.Web.WebPages.xml
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\Antlr3.Runtime.pdb
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\Newtonsoft.Json.xml
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\obj\Debug\CommerceApp.csprojResolveAssemblyReference.cache
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\obj\Debug\CommerceApp.dll
+C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\obj\Debug\CommerceApp.pdb
