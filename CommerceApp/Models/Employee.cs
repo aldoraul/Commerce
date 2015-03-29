@@ -5,6 +5,7 @@ using System.Web;
 using System.Data.Entity;//BA
 using System.ComponentModel.DataAnnotations; //BA For setting the key to create the DBContext and controller
 using System.ComponentModel.DataAnnotations.Schema;//BA
+using System.ComponentModel;
 
 //BA
 namespace CommerceApp.Models
@@ -15,21 +16,27 @@ namespace CommerceApp.Models
         [Key]
         public int EmployeeID { get; set; }
 
+        [DisplayName("First Name")]
         public virtual string firstName { get; set; }
 
+        [DisplayName("Last Name")]
         public virtual string lastName { get; set; }
 
         
         
-        
+        [DisplayName("Job Title")]
         public virtual string jobTitle { get; set; }
 
+        [DisplayName("Birth Date")]
         public virtual DateTime birthDate { get; set; }
 
+        [DisplayName("Hire Date")]
         public virtual DateTime hireDate { get; set; }
 
+        [DisplayName("Days First Call")]
         public virtual int daysFirstCall { get; set; }
 
+        [DisplayName("Days Second Call")]
         public virtual int daysSecondCall { get; set; }
 
         [DataType(DataType.EmailAddress)]
