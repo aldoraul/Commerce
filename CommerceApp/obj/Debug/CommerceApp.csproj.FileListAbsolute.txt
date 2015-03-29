@@ -1,34 +1,3 @@
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\CommerceApp.dll.config
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\CommerceApp.dll
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\CommerceApp.pdb
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\Antlr3.Runtime.dll
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\EntityFramework.dll
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\EntityFramework.SqlServer.dll
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\Newtonsoft.Json.dll
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\System.Web.Helpers.dll
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\System.Web.Mvc.dll
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\System.Web.Optimization.dll
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\System.Web.Razor.dll
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\System.Web.WebPages.dll
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\System.Web.WebPages.Razor.dll
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\WebGrease.dll
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\EntityFramework.xml
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\EntityFramework.SqlServer.xml
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\System.Web.Helpers.xml
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\System.Web.Mvc.xml
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\System.Web.Optimization.xml
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\System.Web.Razor.xml
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\System.Web.WebPages.xml
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\System.Web.WebPages.Razor.xml
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\Antlr3.Runtime.pdb
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\bin\Newtonsoft.Json.xml
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\obj\Debug\CommerceApp.dll
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\obj\Debug\CommerceApp.pdb
-C:\Users\Brandon\Documents\Visual Studio 2013\Projects\CommerceProj\Commerce\CommerceApp\obj\Debug\CommerceApp.csprojResolveAssemblyReference.cache
-<<<<<<< HEAD
 C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\CommerceApp.dll.config
 C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\CommerceApp.dll
 C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\CommerceApp.pdb
@@ -56,8 +25,5 @@ C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\System.Web.WebPages.Deployme
 C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\System.Web.WebPages.Razor.xml
 C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\Antlr3.Runtime.pdb
 C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\bin\Newtonsoft.Json.xml
-C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\obj\Debug\CommerceApp.csprojResolveAssemblyReference.cache
 C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\obj\Debug\CommerceApp.dll
 C:\Users\Aldo\Source\Repos\Commerce\CommerceApp\obj\Debug\CommerceApp.pdb
-=======
->>>>>>> 9c7a2fd49c3ce24a8fd3345c8cec9c60d6dc251d
