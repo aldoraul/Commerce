@@ -43,5 +43,6 @@ namespace CommerceApp.Models
         public string Email { get; set; }
 
         public virtual List<Employee> Employees { get; set; }
+
     }
 }
