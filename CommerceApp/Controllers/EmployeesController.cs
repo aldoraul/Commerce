@@ -23,7 +23,11 @@ namespace CommerceApp.Controllers
         // GET: Employees/Details/5
         public ActionResult Details(int id)
         {
+<<<<<<< HEAD
             if (id < 1)
+=======
+            if (id < 0)
+>>>>>>> 6f1da6a55f134eaf430ad7d056ba60b52c4fdd76
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
@@ -44,6 +48,7 @@ namespace CommerceApp.Controllers
         // POST: Employees/Create
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "EmployeeID,firstName,lastName,jobTitle,birthDate,hireDate,daysFirstCall,daysSecondCall,Email")] Employee employee)
@@ -92,7 +97,11 @@ namespace CommerceApp.Controllers
         // GET: Employees/Delete/5
         public ActionResult Delete(int id)
         {
+<<<<<<< HEAD
             if (id  < 1)
+=======
+            if (id < 1)
+>>>>>>> 6f1da6a55f134eaf430ad7d056ba60b52c4fdd76
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }

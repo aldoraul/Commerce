@@ -5,7 +5,12 @@ using System.Web;
 using System.Data.Entity;//BA
 using System.ComponentModel.DataAnnotations; //BA For setting the key to create the DBContext and controller
 using System.ComponentModel.DataAnnotations.Schema;//BA
+<<<<<<< HEAD
 using System.ComponentModel;//BA used to change display name of employee attributes
+=======
+using System.ComponentModel;
+
+>>>>>>> 6f1da6a55f134eaf430ad7d056ba60b52c4fdd76
 //BA
 namespace CommerceApp.Models
 {
@@ -27,6 +32,7 @@ namespace CommerceApp.Models
         [DisplayName("Job Title")]
         public virtual string jobTitle { get; set; }
 
+<<<<<<< HEAD
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:MMM dd yyyy}", ApplyFormatInEditMode = true)]
         
@@ -36,6 +42,11 @@ namespace CommerceApp.Models
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:MMM dd yyyy}", ApplyFormatInEditMode = true)]
 
+=======
+        [DisplayName("Birth Date")]
+        public virtual DateTime birthDate { get; set; }
+
+>>>>>>> 6f1da6a55f134eaf430ad7d056ba60b52c4fdd76
         [DisplayName("Hire Date")]
         public virtual DateTime hireDate { get; set; }
 
@@ -49,5 +60,6 @@ namespace CommerceApp.Models
         public string Email { get; set; }
 
         public virtual List<Employee> Employees { get; set; }
+
     }
 }
