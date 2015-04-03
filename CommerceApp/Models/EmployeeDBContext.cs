@@ -20,6 +20,7 @@ namespace CommerceApp.Models
         }
 
         public System.Data.Entity.DbSet<CommerceApp.Models.Employee> Employees { get; set; }
-    
+        //public System.Data.Entity.DbSet<CommerceApp.Models.SchedulePeroid> SchedulePeriods { get; set; }
+
     }
 }
