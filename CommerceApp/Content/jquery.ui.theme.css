@@ -57,7 +57,8 @@
 	color: #555555/*{fcDefault}*/;
 }
 .ui-state-default a,
-.ui-state-default a:link,
+.ui-state-default a
+,
 .ui-state-default a:visited {
 	color: #555555/*{fcDefault}*/;
 	text-decoration: none;
