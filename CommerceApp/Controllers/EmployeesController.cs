@@ -21,9 +21,9 @@ namespace CommerceApp.Controllers
         }
 
         // GET: Employees/Details/5
-        public ActionResult Details(string id)
+        public ActionResult Details(int id)
         {
-            if (id == null)
+            if (id < 0)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
@@ -44,6 +44,7 @@ namespace CommerceApp.Controllers
         // POST: Employees/Create
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "EmployeeID,firstName,lastName,jobTitle,birthDate,hireDate,daysFirstCall,daysSecondCall,Email")] Employee employee)
@@ -59,9 +60,9 @@ namespace CommerceApp.Controllers
         }
 
         // GET: Employees/Edit/5
-        public ActionResult Edit(string id)
+        public ActionResult Edit(int id)
         {
-            if (id == null)
+            if (id < 1)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
@@ -90,9 +91,9 @@ namespace CommerceApp.Controllers
         }
 
         // GET: Employees/Delete/5
-        public ActionResult Delete(string id)
+        public ActionResult Delete(int id)
         {
-            if (id == null)
+            if (id < 1)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
@@ -107,7 +108,7 @@ namespace CommerceApp.Controllers
         // POST: Employees/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public ActionResult DeleteConfirmed(string id)
+        public ActionResult DeleteConfirmed(int id)
         {
             Employee employee = db.Employees.Find(id);
             db.Employees.Remove(employee);
