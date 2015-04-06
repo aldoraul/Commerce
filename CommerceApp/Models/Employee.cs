@@ -5,12 +5,12 @@ using System.Web;
 using System.Data.Entity;//BA
 using System.ComponentModel.DataAnnotations; //BA For setting the key to create the DBContext and controller
 using System.ComponentModel.DataAnnotations.Schema;//BA
-<<<<<<< HEAD
-using System.ComponentModel;//BA used to change display name of employee attributes
-=======
-using System.ComponentModel;
+//<<<<<<< HEAD
+using System.ComponentModel; //BA used to change display name of employee attributes
+//=======
 
->>>>>>> 6f1da6a55f134eaf430ad7d056ba60b52c4fdd76
+
+//>>>>>>> 6f1da6a55f134eaf430ad7d056ba60b52c4fdd76
 //BA
 namespace CommerceApp.Models
 {
@@ -18,7 +18,7 @@ namespace CommerceApp.Models
     public class Employee
     {
         [Key]
-
+        [Column(Order=1)]
         public int EmployeeID { get; set; }
 
         [DisplayName("First Name")]
@@ -32,7 +32,7 @@ namespace CommerceApp.Models
         [DisplayName("Job Title")]
         public virtual string jobTitle { get; set; }
 
-<<<<<<< HEAD
+//<<<<<<< HEAD
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:MMM dd yyyy}", ApplyFormatInEditMode = true)]
         
@@ -42,11 +42,8 @@ namespace CommerceApp.Models
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:MMM dd yyyy}", ApplyFormatInEditMode = true)]
 
-=======
-        [DisplayName("Birth Date")]
-        public virtual DateTime birthDate { get; set; }
 
->>>>>>> 6f1da6a55f134eaf430ad7d056ba60b52c4fdd76
+//>>>>>>> 6f1da6a55f134eaf430ad7d056ba60b52c4fdd76
         [DisplayName("Hire Date")]
         public virtual DateTime hireDate { get; set; }
 

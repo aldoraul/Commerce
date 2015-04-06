@@ -23,11 +23,10 @@ namespace CommerceApp.Controllers
         // GET: Employees/Details/5
         public ActionResult Details(int id)
         {
-<<<<<<< HEAD
+//<<<<<<< HEAD
             if (id < 1)
-=======
+//=======
             if (id < 0)
->>>>>>> 6f1da6a55f134eaf430ad7d056ba60b52c4fdd76
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
@@ -97,11 +96,11 @@ namespace CommerceApp.Controllers
         // GET: Employees/Delete/5
         public ActionResult Delete(int id)
         {
-<<<<<<< HEAD
+//<<<<<<< HEAD
             if (id  < 1)
-=======
+//=======
             if (id < 1)
->>>>>>> 6f1da6a55f134eaf430ad7d056ba60b52c4fdd76
+//>>>>>>> 6f1da6a55f134eaf430ad7d056ba60b52c4fdd76
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }

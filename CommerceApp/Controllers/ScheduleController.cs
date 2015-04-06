@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using CommerceApp.MockClass;
+using CommerceApp.Models;
 
 namespace CommerceApp.Controllers
 {
@@ -17,8 +18,8 @@ namespace CommerceApp.Controllers
 
         public JsonResult GetCalendarEvents(double start, double end)
         {
-            var newSchedule = new makeJanitorSchedule();
-            var scheduleDetails = newSchedule.GetJanitorSchedule();
+            var newSchedule = new EmployeeSchedule();
+            var scheduleDetails = newSchedule.GetEmployeeSchedule();
 
             var calendarList = from item in scheduleDetails
                                select new

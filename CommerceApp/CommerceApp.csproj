@@ -129,6 +129,8 @@
     <Compile Include="Models\Apps.cs" />
     <Compile Include="Models\Employee.cs" />
     <Compile Include="Models\EmployeeDBContext.cs" />
+    <Compile Include="Models\EmployeeSchedule.cs" />
+    <Compile Include="Models\EmployeeWorkSchedule.cs" />
     <Compile Include="Models\SchedulePeroid.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Shared.cs" />
